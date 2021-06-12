@@ -1,7 +1,6 @@
 
 
 ## Part One
-   Simplify the following big O expressions as much as possible:
  1. O(n + 10)
     * O(n)
  2. O(100 * n)  
